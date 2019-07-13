@@ -1,0 +1,2 @@
+print ('sandeep')
+print ('krish')
